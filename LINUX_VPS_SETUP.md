@@ -175,7 +175,7 @@ deploy_hook = /etc/letsencrypt/live/apis.viviliam.com/reload-nginx.sh
 sudo certbot renew --dry-run
 
 # Check the log after the dry run
-sudo tail -5 /var/log/certbot-renew.log
+sudo tail -5 /var/log/letsencrypt/letsencrypt.log
 ```
 
 #### Manual renewal (if needed)

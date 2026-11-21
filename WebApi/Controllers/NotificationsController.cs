@@ -70,6 +70,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         [Route("api/sendmail")]
@@ -135,6 +136,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -170,6 +172,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -205,6 +208,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -249,6 +253,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
         //[Route("api/user_login_check/{email=email}/{password=password}/{device=device}")]
@@ -285,6 +290,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -325,6 +331,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -363,6 +370,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -408,6 +416,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -455,6 +464,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -490,6 +500,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -528,6 +539,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -566,6 +578,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -604,6 +617,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         // REMOVED (2026-11-21): User-dependent endpoint — DefaultConnection removed; no SQL Server on VPS
@@ -649,6 +663,7 @@ namespace ViviliamApi.Controllers
                 return StatusCode(500, "An error occurred: " + ex.Message);
             }
             */
+            return StatusCode(501, "Service unavailable — SQL Server connection string removed from VPS");
         }
 
         [Route("api/audios")]
