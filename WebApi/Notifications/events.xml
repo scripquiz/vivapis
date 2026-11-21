@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<db>
+
+	<Events>
+		<id>14</id>
+		<type>Telegram</type>
+		<icon>telegram.png</icon>
+		<place>EVENTS</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-16 06:30:00.0</startdate>
+		<enddate>2022-02-06 12:00:00.0</enddate>
+		<content>Click the link below to join Viviliam Telegram Channel</content>
+		<url>https://t.me/viviliam</url>
+		<urltext>Click to Join</urltext>
+		<footer1></footer1>
+		<footer2>t.me.viviliam</footer2>
+	</Events>
+
+	<Events>
+		<id>11</id>
+		<type>Song of the Day</type>
+		<icon>https://apis.viviliam.com/assets/icon/audio.png</icon>
+		<place>EVENTS</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-15 05:00:00.0</startdate>
+		<enddate>2022-04-05 04:00:00.0</enddate>
+		<content>&lt;audio controls  &gt;&lt;source type=audio/ogg&gt;&lt;source src=https://apis.viviliam.com/assets/audio/0204-Yesu-Kristhuvin.MP3 type=audio/mpeg&gt;Your browser does not support the audio element.&lt;/audio&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Events>
+	
+</db>

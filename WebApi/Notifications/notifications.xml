@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<db>
+
+	<Notifications>
+		<id>23</id>
+		<type>Announcement</type>
+		<icon>https://apis.viviliam.com/assets/icon/announcement.png</icon>
+		<place>ANNOUNCEMENT</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-31 05:00:00.0</startdate>
+		<enddate>2022-02-20 04:00:00.0</enddate>
+		<content>&lt;span&gt;Offline Bookmarks, Highlights and Notes added. Please be aware that data backup is still in the development.&lt;/span&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Notifications>
+
+	<Notifications>
+		<id>22</id>
+		<type>Thought of the Day</type>
+		<icon>https://apis.viviliam.com/assets/icon/voice.png</icon>
+		<place>HOME</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-31 05:00:00.0</startdate>
+		<enddate>2022-02-17 04:00:00.0</enddate>
+		<content>&lt;audio controls  &gt;&lt;source type=audio/ogg&gt;&lt;source src=https://apis.viviliam.com/assets/audio/0216-016.MP3 type=audio/mpeg&gt;Your browser does not support the audio element.&lt;/audio&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Notifications>
+	
+		<Notifications>
+		<id>24</id>
+		<type>Short Devotion</type>
+		<icon>https://apis.viviliam.com/assets/icon/voice.png</icon>
+		<place>HOME</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-31 05:00:00.0</startdate>
+		<enddate>2022-02-17 04:00:00.0</enddate>
+		<content>&lt;audio controls  &gt;&lt;source type=audio/ogg&gt;&lt;source src=https://apis.viviliam.com/assets/audio/0216-Thomson.MP3 type=audio/mpeg&gt;Your browser does not support the audio element.&lt;/audio&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Notifications>
+
+<!-- 	<Notifications>
+		<id>17</id>
+		<type>Short Devotion</type>
+		<icon>https://apis.viviliam.com/assets/icon/video.png</icon>
+		<place>HOME</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-15 23:59:00.0</startdate>
+		<enddate>2022-02-13 04:00:00.0</enddate>
+		<content>&lt;video controls class=notification-thumbnail100 poster=https://apis.viviliam.com/assets/video/shortdevo.png&gt;&lt;source type=video/mp4&gt;&lt;source src=https://apis.viviliam.com/assets/video/0213-Theophilus.mp4 type=video/ogg&gt;Your browser does not support the video tag.&lt;/video&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Notifications> -->
+
+	<Notifications>
+		<id>11</id>
+		<type>Song of the Day</type>
+		<icon>https://apis.viviliam.com/assets/icon/audio.png</icon>
+		<place>HOME</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-15 05:00:00.0</startdate>
+		<enddate>2022-02-17 04:00:00.0</enddate>
+		<content>&lt;audio controls  &gt;&lt;source type=audio/ogg&gt;&lt;source src=https://apis.viviliam.com/assets/audio/0216-Yesu-Nallavar.MP3 type=audio/mpeg&gt;Your browser does not support the audio element.&lt;/audio&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Notifications>
+	
+		<Notifications>
+		<id>20</id>
+		<type>Announcement</type>
+		<icon>announcement.png</icon>
+		<place>NOTIFICATIONS</place>
+		<subtitle></subtitle>
+		<startdate>2022-02-05 06:00:00.0</startdate>
+		<enddate>2022-02-17 18:00:00.0</enddate>
+		<content>&lt;span class=verseoftheday&gt;ஆதியாகமம் 16-18 Quiz&lt;span/&gt;</content>
+		<url>https://quiz.viviliam.com/leaderboard3</url>
+		<urltext>Quiz Leaderboard</urltext>
+		<footer1></footer1>
+		<footer2>Powered by ScripQuiz</footer2>
+	</Notifications>
+
+	<Notifications>
+		<id>18</id>
+		<type>Announcement</type>
+		<icon>announcement.png</icon>
+		<place>NOTIFICATIONS</place>
+		<subtitle>&lt;span class=verseoftheday&gt;ஆதியாகமம் 19-21 Quiz&lt;span/&gt;</subtitle>
+		<startdate>2022-02-05 07:00:00.0</startdate>
+		<enddate>2022-02-17 18:00:00.0</enddate>
+		<content>&lt;span class=verseoftheday&gt;Ends: 17 Feb 2022 @6PM.&lt;span/&gt;</content>
+		<url>https://quiz.viviliam.com</url>
+		<urltext>Quiz Page</urltext>
+		<footer1></footer1>
+		<footer2>Powered by ScripQuiz</footer2>
+	</Notifications>
+	
+</db>

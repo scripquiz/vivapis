@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<db>
+
+	<Audios>
+		<id>22</id>
+		<caption>Thought of the Day</caption>
+		<icon>https://apis.viviliam.com/assets/icon/voice.png</icon>
+		<startdate>2022-01-31 05:00:00.0</startdate>
+		<enddate>2022-02-17 04:00:00.0</enddate>
+		<url>https://apis.viviliam.com/assets/audio/0216-016.MP3 </url>
+	</Audios>
+</db>

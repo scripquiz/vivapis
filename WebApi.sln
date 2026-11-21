@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViviliamAPI", "WebApi\ViviliamAPI.csproj", "{DBBD8071-82ED-4438-943C-987AC015E20F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViviliamTest", "ViviliamTest\ViviliamTest.csproj", "{BCF8F403-1505-46A9-A20A-6C31401827BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{986A8F48-505D-4073-964D-BCB45CABBAD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B38971B4-B30C-427E-9FF0-00123E7A2023}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBD8071-82ED-4438-943C-987AC015E20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBD8071-82ED-4438-943C-987AC015E20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBD8071-82ED-4438-943C-987AC015E20F}.Debug|x64.ActiveCfg = Debug|x64
+		{DBBD8071-82ED-4438-943C-987AC015E20F}.Debug|x64.Build.0 = Debug|x64
+		{DBBD8071-82ED-4438-943C-987AC015E20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBD8071-82ED-4438-943C-987AC015E20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBBD8071-82ED-4438-943C-987AC015E20F}.Release|x64.ActiveCfg = Release|x64
+		{DBBD8071-82ED-4438-943C-987AC015E20F}.Release|x64.Build.0 = Release|x64
+		{BCF8F403-1505-46A9-A20A-6C31401827BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF8F403-1505-46A9-A20A-6C31401827BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF8F403-1505-46A9-A20A-6C31401827BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BCF8F403-1505-46A9-A20A-6C31401827BA}.Debug|x64.Build.0 = Debug|Any CPU
+		{BCF8F403-1505-46A9-A20A-6C31401827BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF8F403-1505-46A9-A20A-6C31401827BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF8F403-1505-46A9-A20A-6C31401827BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{BCF8F403-1505-46A9-A20A-6C31401827BA}.Release|x64.Build.0 = Release|Any CPU
+		{986A8F48-505D-4073-964D-BCB45CABBAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986A8F48-505D-4073-964D-BCB45CABBAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986A8F48-505D-4073-964D-BCB45CABBAD3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{986A8F48-505D-4073-964D-BCB45CABBAD3}.Debug|x64.Build.0 = Debug|Any CPU
+		{986A8F48-505D-4073-964D-BCB45CABBAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986A8F48-505D-4073-964D-BCB45CABBAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986A8F48-505D-4073-964D-BCB45CABBAD3}.Release|x64.ActiveCfg = Release|Any CPU
+		{986A8F48-505D-4073-964D-BCB45CABBAD3}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED4E73B-7EE7-4D84-B2FD-7B04937D2944}
+	EndGlobalSection
+EndGlobal

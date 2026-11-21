@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build artifacts
+**/bin/
+**/obj/
+Debug/
+Release/
+out/
+publish/
+
+# Test artifacts
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+logs/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store

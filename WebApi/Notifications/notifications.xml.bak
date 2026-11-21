@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<db>
+	<Notifications>
+		<id>22</id>
+		<type>Thought of the Day</type>
+		<icon>https://apis.viviliam.com/assets/icon/voice.png</icon>
+		<place>HOME</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-31 05:00:00.0</startdate>
+		<enddate>2022-02-05 04:00:00.0</enddate>
+		<content>&lt;audio controls  &gt;&lt;source type=audio/ogg&gt;&lt;source src=https://apis.viviliam.com/assets/audio/0204-005.MP3 type=audio/mpeg&gt;Your browser does not support the audio element.&lt;/audio&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Notifications>
+<!-- <Notifications>
+		<id>21</id>
+		<type>WhatsApp</type>
+		<icon>https://apis.viviliam.com/assets/icon/whatsapp.png</icon>
+		<place>Home</place>
+		<subtitle>Broadcast List</subtitle>
+		<startdate>2022-01-06 06:00:00.0</startdate>
+		<enddate>2022-01-08 18:00:00.0</enddate>
+		<content>&lt;span class=verseoftheday&gt;Please send your Name, City and Country to join Viviliam Broadcast List.&lt;span/&gt;</content>
+		<url>https://api.whatsapp.com/send?phone=919884430250</url>
+		<urltext>Join Viviliam</urltext>
+		<footer1></footer1>
+		<footer2>Viviliam WhatsApp</footer2>
+	</Notifications> -->
+<Notifications>
+		<id>20</id>
+		<type>Announcement</type>
+		<icon>announcement.png</icon>
+		<place>NOTIFICATIONS</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-27 06:00:00.0</startdate>
+		<enddate>2022-02-03 18:00:00.0</enddate>
+		<content>&lt;span class=verseoftheday&gt;ஆதியாகமம் 10-12 Quiz&lt;span/&gt;</content>
+		<url>https://quiz.viviliam.com/leaderboard1</url>
+		<urltext>Leaderboard</urltext>
+		<footer1></footer1>
+		<footer2>Powered by ScripQuiz</footer2>
+	</Notifications>
+<!-- <Notifications>
+		<id>19</id>
+		<type>Weekly Poll</type>
+		<icon>https://apis.viviliam.com/assets/icon/poll.png</icon>
+		<place>Home</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-06 06:00:00.0</startdate>
+		<enddate>2022-01-15 18:00:00.0</enddate>
+		<content>&lt;span class=verseoftheday&gt;நீங்கள் தினந்தோறும் வேதாகமத்திலிருந்து எத்தனை அதிகாரங்கள் வாசிப்பீர்கள்?&lt;span/&gt;</content>
+		<url>https://poll.scripquiz.com</url>
+		<urltext>Click to Vote</urltext>
+		<footer1></footer1>
+		<footer2>Powered by ScripQuiz</footer2>
+	</Notifications> -->
+<Notifications>
+		<id>18</id>
+		<type>Announcement</type>
+		<icon>announcement.png</icon>
+		<place>NOTIFICATIONS</place>
+		<subtitle>&lt;span class=verseoftheday&gt;ஆதியாகமம் 13-15 Quiz&lt;span/&gt;</subtitle>
+		<startdate>2022-01-26 06:00:00.0</startdate>
+		<enddate>2022-02-03 18:00:00.0</enddate>
+		<content>&lt;span class=verseoftheday&gt;Ends: 03 Feb 2022 @6PM.&lt;span/&gt;</content>
+		<url>https://quiz.viviliam.com</url>
+		<urltext>Visit Quiz Page</urltext>
+		<footer1></footer1>
+		<footer2>Powered by ScripQuiz</footer2>
+	</Notifications>
+	<Notifications>
+		<id>17</id>
+		<type>Short Devotion</type>
+		<icon>https://apis.viviliam.com/assets/icon/video.png</icon>
+		<place>HOME</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-15 23:59:00.0</startdate>
+		<enddate>2022-02-03 04:00:00.0</enddate>
+		<content>&lt;video controls class=notification-thumbnail100 poster=https://apis.viviliam.com/assets/video/Theopilus.jpg&gt;&lt;source type=video/mp4&gt;&lt;source src=https://apis.viviliam.com/assets/video/0203-Theopilus.mp4 type=video/ogg&gt;Your browser does not support the video tag.&lt;/video&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Notifications>
+	<!-- <Notifications>
+		<id>16</id>
+		<type>Update</type>
+		<icon>update.png</icon>
+		<place>NOTIFICATIONS</place>
+		<subtitle></subtitle>
+		<startdate>2021-12-29 07:30:00.0</startdate>
+		<enddate>2022-01-03 12:00:00.0</enddate>
+		<content>New update 1.0.17 is available now. Click the link below to update Viviliam App. Please ignore this message if you have already updated.</content>
+		<url>https://play.google.com/store/apps/details?id=com.fredfrank.viviliam</url>
+		<urltext>Update Now</urltext>
+		<footer1></footer1>
+		<footer2>Viviliam App</footer2>
+	</Notifications> -->
+	<!-- <Notifications>
+		<id>15</id>
+		<type>Facebook</type>
+		<icon>facebook.png</icon>
+		<place>NOTIFICATIONS</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-06 06:30:00.0</startdate>
+		<enddate>2022-01-10 12:00:00.0</enddate>
+		<content>Click the link below to visit our Facebook Page</content>
+		<url>https://facebook.com/ViviliamApp</url>
+		<urltext>Viviliam Facebook</urltext>
+		<footer1></footer1>
+		<footer2>Facebook.com/ViviliamApp</footer2>
+	</Notifications> -->
+	<Notifications>
+		<id>14</id>
+		<type>Telegram</type>
+		<icon>telegram.png</icon>
+		<place>NOTIFICATIONS</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-16 06:30:00.0</startdate>
+		<enddate>2022-02-06 12:00:00.0</enddate>
+		<content>Click the link below to join Viviliam Telegram Channel</content>
+		<url>https://t.me/viviliam</url>
+		<urltext>Click to Join</urltext>
+		<footer1></footer1>
+		<footer2>t.me.viviliam</footer2>
+	</Notifications>
+	<!-- <Notifications>
+		<id>13</id>
+		<type>YouTube</type>
+		<icon>youtube.png</icon>
+		<place>NOTIFICATIONS</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-02 06:30:00.0</startdate>
+		<enddate>2022-01-03 12:00:00.0</enddate>
+		<content>&lt;img class=notification-thumbnail100 onerror=this.style.display=none src=https://apis.viviliam.com/assets/video/viviliam-promo.jpg&gt;&lt;br&gt; Click the link below to watch Viviliam App Promo video.</content>
+		<url>https://www.youtube.com/watch?v=hsL3iZ6Zbq0</url>
+		<urltext>Viviliam YouTube</urltext>
+		<footer1></footer1>
+		<footer2>Youtube.com/viviliam</footer2>
+	</Notifications> -->
+	<!-- <Notifications>
+		<id>12</id>
+		<type>Bible Quiz</type>
+		<icon>https://apis.viviliam.com/assets/icon/checkbox.png</icon>
+		<place>HOME</place>
+		<subtitle></subtitle>
+		<startdate>2021-12-28 05:30:00.0</startdate>
+		<enddate>2021-12-29 10:00:00.0</enddate>
+		<content>Click the link below to participate in Bible Quiz</content>
+		<url>https://events.scripquiz.com</url>
+		<urltext>Start Quiz</urltext>
+		<footer1></footer1>
+		<footer2>Powered by ScripQuiz</footer2>
+	</Notifications> -->
+	<Notifications>
+		<id>11</id>
+		<type>Song of the Day</type>
+		<icon>https://apis.viviliam.com/assets/icon/audio.png</icon>
+		<place>HOME</place>
+		<subtitle></subtitle>
+		<startdate>2022-01-15 05:00:00.0</startdate>
+		<enddate>2022-02-05 04:00:00.0</enddate>
+		<content>&lt;audio controls  &gt;&lt;source type=audio/ogg&gt;&lt;source src=https://apis.viviliam.com/assets/audio/0204-Yesu-Kristhuvin.MP3 type=audio/mpeg&gt;Your browser does not support the audio element.&lt;/audio&gt;</content>
+		<url></url>
+		<urltext></urltext>
+		<footer1></footer1>
+		<footer2></footer2>
+	</Notifications>
+	
+</db>

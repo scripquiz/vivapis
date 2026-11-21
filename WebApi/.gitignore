@@ -1,0 +1,8 @@
+# .NET Core
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+/logs
